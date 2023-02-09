@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
-<h3 align="center">A frontend developer from Brazil</h3>
+<h3 align="center">A Flutter developer from Brazil</h3>
 
 
-- 🌱 I’m currently learning **HTML5, CSS and JavaScript**
+- 🌱 I’m currently learning **Flutter and Dart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
