@@ -9,8 +9,6 @@
 <a href="https://linkedin.com/in/matheus-michereff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-michereff" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michereff16&show_icons=true&theme=algolia&locale=en" alt="michereff16" /></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michereff16&label=Profile%20views&color=0e75b6&style=flat" alt="michereff16" /> </p>
 
 
